@@ -1,0 +1,3 @@
+/home/boobs/multihash/build/CMakeFiles/multihash.dir
+/home/boobs/multihash/build/CMakeFiles/edit_cache.dir
+/home/boobs/multihash/build/CMakeFiles/rebuild_cache.dir
